@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![about me](https://raw.githubusercontent.com/Jiangdiii/Jiangdiii.github.io/master/screenshots/aboutme_top.jpg)
+![about me](https://raw.githubusercontent.com/realjiangdi/realjiangdi.github.io/master/screenshots/aboutme_top.jpg)
+
 # Hello World
 
 Hey!  Welcome to my blog! 
