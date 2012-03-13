@@ -2,7 +2,7 @@
 layout: post
 title: 基于STM32G030F6 HAL库开发
 tags: 单片机
-key: stm32_0706
+
 ---
 
 STM32G030F6 单片机开发记录。

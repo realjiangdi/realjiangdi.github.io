@@ -2,7 +2,7 @@
 layout: post
 title: 搜索技巧
 tags: 效率
-key: SearchTips
+
 ---
 常用的谷歌搜索技巧
 <!--more-->

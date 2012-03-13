@@ -2,7 +2,6 @@
 layout: post
 title: 嵌入式系统移植 学习记录
 tags: 嵌入式
-key: uboot0804
 ---
 
 嵌入式系统移植

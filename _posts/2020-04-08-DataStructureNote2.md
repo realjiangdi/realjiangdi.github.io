@@ -2,7 +2,6 @@
 layout: post
 title: 数据结构与算法 Part II
 tags: 数据结构
-key: dsn2
 ---
 栈和队列以及代码实现
 <!--more-->

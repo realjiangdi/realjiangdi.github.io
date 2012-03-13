@@ -2,7 +2,6 @@
 layout: post
 title: 基于Linux i2c 驱动源码分析
 tags: Linux驱动开发
-key: Linuxi2cnote1103
 ---
 
 基于高通ipq4019 kernel3.14.77 分析

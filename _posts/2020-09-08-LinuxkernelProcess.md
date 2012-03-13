@@ -2,7 +2,6 @@
 layout: post
 title: Linux 内核线程
 tags: Linux
-key: LinuxKernelProcess0908
 ---
 
 Linux 内核线程 学习Note

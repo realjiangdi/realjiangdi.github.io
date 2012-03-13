@@ -2,7 +2,7 @@
 layout: post
 title: Linux系统编程
 tag: Linux
-key: lsp20200507
+
 ---
 
 通过阅读《Linux系统编程手册》，结合一些工作上的经验，完成对Linux系统编程知识体系的梳理。

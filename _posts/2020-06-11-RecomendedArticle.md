@@ -2,7 +2,7 @@
 layout: post
 title: 优秀的技术博文
 tags: 阅读
-key: GoodTechBlogs
+
 ---
 他山之石，可以攻玉。
 
