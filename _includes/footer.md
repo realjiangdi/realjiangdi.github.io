@@ -1,3 +1,2 @@
-Super lightweight Jekyll theme [ultralight](https://github.com/kotet/ultralight)  
-[Twitter](https://twitter.com/kotetttt)
-| [GitHub](https://github.com/kotet)
+用文字记录生活-[蒋迪的博客](https://realjiangdi.github.io)  
+[GitHub](https://github.com/realjiangdi)
